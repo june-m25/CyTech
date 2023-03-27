@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px 20px;
+}
+
+.contact-form {
+    background-color: lightgray;
+    width: 550px;
+    height: 300px;
+    padding: 20px 15px;
+    margin-left: 20px;
+}
+
+form {
+    width: 530px;
+}
+
+.item {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+    width: 100px;
+    float: left;
+}
+
+input[type=text], input[type=date], input[type=number], select, textarea{
+    width: 280px;
+    padding-right: 30px;
+}
+
+input[type=submit] {
+    width: 70px;
+    float: right;
+}
+
+
+
